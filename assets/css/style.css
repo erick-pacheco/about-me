@@ -8,6 +8,12 @@ a {
   color: #3498db;
 }
 
+.img-thumbnail {
+  width: 150px;
+  height: 100px;
+  object-fit: cover;
+}
+
 a:hover {
   color: #5faee3;
   text-decoration: none;
